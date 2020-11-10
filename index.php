@@ -20,11 +20,11 @@ if (isset($_GET['reset']) && $_GET['reset'] == 1)
 ?>
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link href="style/style.css" type="text/css" rel="stylesheet" media="all" />
-        <title>Jeu d'Echec</title>
+        <title>Chess</title>
     </head>
     <body>
         <?php
